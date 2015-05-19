@@ -24,7 +24,7 @@ DEBUG = False
 
 TEMPLATE_DEBUG = True
 
-ALLOWED_HOSTS = [www.wowclearance.com]
+ALLOWED_HOSTS = ['www.wowclearance.com']
 
 
 # Application definition
